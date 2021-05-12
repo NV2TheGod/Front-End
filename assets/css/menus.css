@@ -33,11 +33,11 @@
 
 /* website logo fixed size in desktop menu and mobile menu bar  */
 .container-menu-desktop    a:first-child img,
-.container-menu-bar-mobile a:first-child img { width: 200px; height: 40px }
+.container-menu-bar-mobile a:first-child img { width: 80px; height: 70px }
 
 /* website logo vertically cente#ff5000 in desktop menu and mobile menu bar  */
 .container-menu-desktop    a:first-child,
-.container-menu-bar-mobile a:first-child { display: flex; flex-direction: row; align-items: center }
+.container-menu-bar-mobile a:first-child { display: flex; flex-direction: row; align-items: center  }
 
 /* hide bullet character on listed links */
 .container-menu-desktop ul li,
@@ -240,7 +240,7 @@
 
 /* background colour */
 .menu-light { 
-	background-color: #ff6501;
+	background-color: black;
 	transition: all .5s ease-in-out;
 }
 
